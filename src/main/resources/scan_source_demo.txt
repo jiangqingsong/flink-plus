@@ -1,0 +1,43 @@
+{
+   "ResourceInfo" : "{}",
+   "ResourceName" : "ScanHostsInfo",
+   "ScanTime" : "2021-11-19 14:50:38",
+   "TaskID" : "9b81c9d00d2a4c59801e28f81d123659"
+}
+
+{
+   "ResourceInfo" : "{}",
+   "ResourceName" : "ScanHostsInfo",
+   "ScanTime" : "2021-11-19 14:50:38",
+   "TaskID" : "9b81c9d00d2a4c59801e28f81d123659"
+}
+
+{
+   "ResourceInfo" : {
+      "DataBaseInfo" : [],
+      "DeviceIPAddress" : "172.25.0.16",
+      "DeviceType" : "Linux",
+      "IPAddressOwnership" : "局域网",
+      "MessageOrientedMiddleware" : [],
+      "OSInfo" : "Linux 3.2 - 4.9",
+      "OpenServiceOfPort" : [
+         {
+            "Name" : "ssh",
+            "Port" : 22,
+            "Version" : "OpenSSH 7.4 (protocol 2.0)"
+         }
+      ],
+      "Running" : "general purpose",
+      "SystemFingerprintInfo" : "cpe:/o:linux:linux_kernel:3"
+   },
+   "ResourceName" : "HostInfo",
+   "ScanTime" : "2021-11-19 14:50:54",
+   "TaskID" : "9b81c9d00d2a4c59801e28f81d123659"
+}
+
+{
+   "ResourceInfo" : "{}",
+   "ResourceName" : "ScanHostsInfo",
+   "ScanTime" : "2021-11-19 14:50:59",
+   "TaskID" : "9b81c9d00d2a4c59801e28f81d123659"
+}
